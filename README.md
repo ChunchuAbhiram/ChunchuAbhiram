@@ -1,5 +1,29 @@
 ## Hi there 👋# 💫 About Me:
-Currently pursuing a Bachelor of Technology in Computer Science at SR University, expected to graduate in May 2026. Previously completed a Front-End Web Development internship at Edunet Foundation in collaboration with AICTE and IBM, where web technologies skills were enhanced through hands-on industry experience. <br><br>Gained foundational expertise in cloud computing, web development, and front-end design through internships at Edunet Foundation and InternPe. Motivated to apply technical knowledge and problem-solving abilities to contribute to impactful projects in the tech field. Actively seeking opportunities to further develop skills and grow professionally in software development and cloud computing.Currently pursuing a Bachelor of Technology in Computer Science at SR University, expected to graduate in May 2026. Previously completed a Front-End Web Development internship at Edunet Foundation in collaboration with AICTE and IBM, where web technologies skills were enhanced through hands-on industry experience. Gained foundational expertise in cloud computing, web development, and front-end design through internships at Edunet Foundation and InternPe. Motivated to apply technical knowledge and problem-solving abilities to contribute to impactful projects in the tech field. Actively seeking opportunities to further develop skills and grow professionally in software development and cloud computing.<br>Top skills<br>Top skills<br>pyton • Cloud Computing • Data Analysis • Web Application Development
+🎓 Final-year **B.Tech Computer Science** student at **SR University** (Class of 2026)
+
+💻 Aspiring **Software Developer** with hands-on experience in **Front-End Web Development** and **Cloud Fundamentals**
+
+🏢 Former **Front-End Intern** at **Edunet Foundation** (in collaboration with **AICTE & IBM**)  
+📚 Also trained through internships at **Edunet Foundation** and **InternPe**
+
+🚀 I enjoy building clean, user-focused web applications and learning how cloud and AI systems power real-world products.
+
+---
+
+### 🛠️ Skills
+- Python  
+- Web Development (HTML, CSS, JavaScript)  
+- Cloud Computing  
+- Data Analysis  
+- Problem Solving  
+
+---
+
+### 🌱 Currently Learning
+- Backend & APIs  
+- Cloud-native development  
+- AI-powered applications  
+
 
 
 ## 🌐 Socials:
